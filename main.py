@@ -1,11 +1,3 @@
-# take file path as input
-
-# create copy of file
-# do formatting
-# save file
-
-# put file in same place as original file
-
 import argparse
 import csv
 import os
